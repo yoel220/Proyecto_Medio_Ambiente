@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto_Medio_Ambiente</string>
+    <string name="voluntario_requirements">
+    Requisitos para ser voluntario: \n\n
+    - Tener más de 18 años.\n
+    - Disponibilidad para participar en actividades.\n
+    - Pasión por el medio ambiente y la conservación.
+</string>
+    <string name="report_image_description">Imagen del reporte</string>
+</resources>

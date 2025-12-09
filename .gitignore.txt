@@ -1,0 +1,11 @@
+# Archivos de Gradle
+.gradle/
+/local.properties
+/build/
+
+# Archivos de Android Studio
+.idea/
+.DS_Store
+
+# Archivos de diagnóstico
+*.hprof

@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Android Launch",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "com.medioambiente.activities.MainActivityKt",
+            "projectName": "app",
+            "classPaths": [
+                "${workspaceFolder}/app/build/intermediates/javac/debug/classes",
+                "${workspaceFolder}/app/build/tmp/kotlin-classes/debug"
+            ]
+        }
+    ]
+}
